@@ -1,0 +1,10 @@
+create an array of the user input questions that will generate the pdf 
+
+make sure that the user input will write to the file so that it can converted into pdf format from an html that is generated
+
+install the libraries and api's to pull in the information from the user's Github account for their resume
+
+generate the input into an html, then need to convert that to a pdf
+
+
+
